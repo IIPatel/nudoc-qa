@@ -1,2 +1,16 @@
+langchain
 streamlit
-openai
+pypdf
+sentence-transformers
+chromadb
+watchdog
+langchain-ibm
+langchain-community
+python-docx 
+python-pptx
+huggingface-hub
+PyYAML
+watchdog
+beautifulsoup4
+pandas
+python-dotenv
